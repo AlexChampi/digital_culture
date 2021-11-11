@@ -1,3 +1,0 @@
-C:/Users/Sasha/Desktop/.idea/WordCont/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-C:/Users/Sasha/Desktop/.idea/WordCont/cmake-build-debug/CMakeFiles/WordCont.dir
-C:/Users/Sasha/Desktop/.idea/WordCont/cmake-build-debug/CMakeFiles/edit_cache.dir
