@@ -29,20 +29,14 @@ int main(int argc, char *argv[]) {
                 strcpy(command, argv[i]);
 
                 if ((strcmp(command, "-l") == 0 || strcmp(command, "--lines") == 0) && isLine == 0) {
-
                     printf("Количество строк: %d\n", CountLine(myFile));
                     isLine = 1;
-
                 } else if ((strcmp(command, "-c") == 0 || strcmp(command, "--bytes") == 0) && isByte == 0) {
-
                     printf("Размер в байтах: %d\n", CountByte(myFile));
                     isByte = 1;
-
                 } else if ((strcmp(command, "-w") == 0 || strcmp(command, "--words") == 0) && isWord == 0) {
-
                     printf("Количество слов: %d\n", CountWord(myFile));
                     isWord = 1;
-
                 } else if (isAttention == 0) {
                     ShowError();
                     isAttention = 1;
@@ -50,9 +44,7 @@ int main(int argc, char *argv[]) {
             }
             fclose(myFile);
         }
-
     }
-
     return 0;
 }
 
