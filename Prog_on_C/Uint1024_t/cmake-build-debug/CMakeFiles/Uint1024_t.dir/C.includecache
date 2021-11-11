@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Sasha/Desktop/.idea/Uint1024_t/uint1024_1.c
+stdio.h
+-
+stdint.h
+-
+stdlib.h
+-
+string.h
+-
+
