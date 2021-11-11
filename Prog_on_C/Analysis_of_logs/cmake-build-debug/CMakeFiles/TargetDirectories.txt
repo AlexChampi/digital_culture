@@ -1,3 +1,0 @@
-C:/Users/Sasha/Desktop/.idea/Analysis_of_logs/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-C:/Users/Sasha/Desktop/.idea/Analysis_of_logs/cmake-build-debug/CMakeFiles/Analysis_of_logs.dir
-C:/Users/Sasha/Desktop/.idea/Analysis_of_logs/cmake-build-debug/CMakeFiles/edit_cache.dir
